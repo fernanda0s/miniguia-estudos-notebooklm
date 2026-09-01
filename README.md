@@ -28,14 +28,14 @@ Especificamente, a intenção é:
 4. Princípios de IA da OCDE (Site aberto)
 
 ## 3. Engenharia de Prompts e Cicatrizes
-Pode resumir as fontes deste caderno?
-Com base exclusivamente nas fontes, pode elaborar um resumo sobre o uso responsável da IA Generativa no ambiente corporativo?
-Quais são os principais benefícios de uma implementação bem sucedida da IA Generativa em empresas?
-E quais são os principais riscos?
-Pode me explicar as funções Govern, Map, Measure e Manage de acordo com o NIST AI Risk Management Framework 1.0?
-Compare as abordagens de cada fonte sobre o Uso Responsável da IA Generativa.
-Com base nas fontes, pode construir uma visão consolidada para o Uso Responsável da IA Generativa no Ambiente Corporativo? Organize as recomendações da maneira que achar que estejam mais claras e fáceis de compreender.
-Especificamente sobre o NIST Generative IA Profile, quais são os riscos específicos relacionados a IA Generativa?
+- Pode resumir as fontes deste caderno?
+- Com base exclusivamente nas fontes, pode elaborar um resumo sobre o uso responsável da IA Generativa no ambiente corporativo?
+- Quais são os principais benefícios de uma implementação bem sucedida da IA Generativa em empresas?
+- E quais são os principais riscos?
+- Pode me explicar as funções Govern, Map, Measure e Manage de acordo com o NIST AI Risk Management Framework 1.0?
+- Compare as abordagens de cada fonte sobre o Uso Responsável da IA Generativa.
+- Com base nas fontes, pode construir uma visão consolidada para o Uso Responsável da IA Generativa no Ambiente Corporativo? Organize as recomendações da maneira que achar que estejam mais claras e fáceis de compreender.
+- Especificamente sobre o NIST Generative IA Profile, quais são os riscos específicos relacionados a IA Generativa?
 
 ### Leia mais em: 
 
