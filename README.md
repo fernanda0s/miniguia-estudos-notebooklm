@@ -37,14 +37,12 @@ Especificamente, a intenção é:
 - Com base nas fontes, pode construir uma visão consolidada para o Uso Responsável da IA Generativa no Ambiente Corporativo? Organize as recomendações da maneira que achar que estejam mais claras e fáceis de compreender.
 - Especificamente sobre o NIST Generative IA Profile, quais são os riscos específicos relacionados a IA Generativa?
 
-### Leia mais em: 
+### Leia mais em: engenharia de prompts e cicatrizes
 
 ## 4. Miniguia de estudo
-### Resumo estruturado sobre o tema
-### Glossário
-### Prompts reutilizábveis
-
-### Leia mais em:
+### Resumo estruturado sobre o tema: 
+### Glossário: 
+### Prompts reutilizáveis: 
 
 O NotebookLM foi utilizado como apoio à leitura, organização e revisão das fontes. A ferramenta contribuiu para estruturar o conteúdo, relacionar conceitos e criar materiais de estudo.
 Obrigada.
